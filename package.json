@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.1"
+    "bun": "^1.1.38",
+    "express": "^4.21.1",
+    "jenkins": "file:"
   },
   "devDependencies": {
     "@types/express": "^5.0.0"
